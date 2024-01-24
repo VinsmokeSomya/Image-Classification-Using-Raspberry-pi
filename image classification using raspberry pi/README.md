@@ -1,6 +1,6 @@
 # TensorFlow Lite image classification using Raspberry Pi
 
-## Set up your hardware
+### Set up your hardware
 ## 1) Install the TensorFlow Lite runtime
 
 In this project, all you need from the TensorFlow Lite API is the `Interpreter`
