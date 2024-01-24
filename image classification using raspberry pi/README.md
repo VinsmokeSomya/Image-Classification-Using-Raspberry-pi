@@ -16,7 +16,7 @@ You can install the TFLite runtime using this script.
 sh setup.sh
 ```
 
-## Download the example files
+## 2) Download the example files
 
 First, clone this Git repo onto your Raspberry Pi like this:
 
@@ -34,7 +34,7 @@ cd Image-Classification-Using-Raspberry-pi/image classification using raspberry 
 sh setup.sh
 ```
 
-## Run the example
+## 3) Run the example
 
 ```
 python3 classify.py
